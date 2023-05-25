@@ -90,7 +90,6 @@ Contributed by: 🤖
 **Category Tags:** Tech Support, Virtual Assistant, Troubleshooting
 
 ### 5. Plan a Trip to a Dream Destination
----
 
 Contributed by: 🤖
 
