@@ -1,4 +1,5 @@
 
+
 # AI-Prompt-Hub :rocket:
 
 Welcome to the AI Prompt Hub! :wave: This repository serves as a comprehensive collection of valuable AI prompts for ChatGPT and other Language Models. :robot:
@@ -28,7 +29,6 @@ By attaching the prompts with specific categories, we aim to enhance the user ex
 ## :pencil: Prompts
 
 ### Act as Position Interviewer
----
 Contributed by: @f & @litekin
 
 **Prompt Description:**
@@ -49,10 +49,7 @@ Contributed by: @f & @litekin
 **Category Tags:** Interview Preparation, Mock Interview, Job Interview, Interview Skills, Interview Practice, Interview Simulation, Interview Roleplay
 
 
-
-
 ### Act as an Advertiser
----
 Contributed by: @devisasari
 
 **Prompt Description:**
@@ -75,7 +72,6 @@ Contributed by: @devisasari
 
 
 ### Engage in a Philosophical Debate
----
 Contributed by: 🤖
 
 **Prompt Description:**
@@ -85,7 +81,6 @@ Contributed by: 🤖
 **Category Tags:** Philosophy, Ethics, Debate
 
 ### Provide Tech Support for a Virtual Assistant
----
 Contributed by: 🤖
 
 **Prompt Description:**
@@ -95,7 +90,6 @@ Contributed by: 🤖
 **Category Tags:** Tech Support, Virtual Assistant, Troubleshooting
 
 ### Plan a Trip to a Dream Destination
----
 Contributed by: 🤖
 
 **Prompt Description:**
